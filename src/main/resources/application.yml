@@ -10,4 +10,4 @@ spring:
       server:
         encrypt.enabled: true
         git:
-          uri: https://github.com/ds-tothemoon/kotlin-ecommerce-exercise
+          uri: https://github.com/ds-tothemoon/ecommerce-config
